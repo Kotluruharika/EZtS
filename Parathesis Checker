@@ -1,0 +1,12 @@
+##parathnies checker
+class check:
+    def __init__(self):
+        self.items=[]
+    def push(self,data):
+        if data=='[,(,{':
+            return self.append(data)
+        elif data=='],),}':
+            return pop.items
+s=check()
+s.push(4+1)
+print(s.items)
