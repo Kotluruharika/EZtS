@@ -1,0 +1,11 @@
+def check(arr,n):
+    arr[index[0]]
+    for i in index:
+        if index==n:
+            arr+=1
+        elif index<n:
+            arr+=1
+        elif index>n:
+            arr+1
+n=input()            
+print(check)          
