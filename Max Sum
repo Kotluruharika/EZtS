@@ -1,0 +1,9 @@
+##max sum
+n=input()
+sum=0
+def max(n):
+    for i in n:
+        if i==max:
+            sum+=1
+print(sum)            
+print(max(n)) 
